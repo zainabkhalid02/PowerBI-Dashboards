@@ -30,7 +30,7 @@ Following inferences can be drawn from the dashboard:
         - Consumer Segment Orders = 30.37%
         - Corporate Segment Orders = 51.42%
         - Home Office Segment Orders = 18.22%
-
+        
 Inference: A higher percentage of orders come from Corporate customers (51.42%), followed by Consumer (30.37%), and the smallest proportion from the Home Office segment (18.22%).
            
 ### [2] Category-Wise Sales (CY & PY)
