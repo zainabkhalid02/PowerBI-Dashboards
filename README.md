@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNDQ5MDMyMDYtNmMzMy00ZWEzLTliYTMtNjcyNDJlMTQ3YTNjIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9
 
-
+<img width="706" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/7c820557-3b41-4085-9b18-770ff1ec6d85">
 
 ## Problem Statement
 
