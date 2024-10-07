@@ -91,4 +91,4 @@ Inference: Technology continues to dominate in sales, with consistent growth in 
 
 This dashboard can be filtered according to the needs of the user. 
 
-
+<img width="704" alt="Filter Panel" src="https://github.com/user-attachments/assets/abe56009-1cdb-4f08-a00d-f3a153b2614a">
