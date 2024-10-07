@@ -86,3 +86,9 @@ Inference: These repeat customers indicate strong customer loyalty and recurring
         - Office Supplies had notable peaks in April and December.
 
 Inference: Technology continues to dominate in sales, with consistent growth in March and September for 2022. The seasonal patterns suggest that year-end sales could be a critical period for Furniture and Office Supplies.
+
+## Filtering
+
+This dashboard can be filtered according to the needs of the user. 
+
+
